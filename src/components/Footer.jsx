@@ -5,12 +5,12 @@ function Footer() {
     <>
       <footer>
         <div className="footer-links">
-          <a href="#">About</a>
-          <a href="#">Store locator</a>
-          <a href="#">FAQs</a>
-          <a href="#">News</a>
-          <a href="#">Careers</a>
-          <a href="#">Contact Us</a>
+          <button className="link-button" >About</button>
+          <button className="link-button" >Store locator</button>
+          <button className="link-button" >FAQs</button>
+          <button className="link-button" >News</button>
+          <button className="link-button" >Careers</button>
+          <button className="link-button" >Contact Us</button>
         </div>
         <p className="love">
           Design &nbsp; by{" "}
@@ -18,9 +18,9 @@ function Footer() {
             target="_blank"
             rel="noreferrer"
             style={{ color: "white" }}
-            href="https://github.com/Abderraouf-Rahmani"
+            href="https://github.com/kulsum0998"
           >
-            &nbsp; Abderraouf
+            &nbsp; Kulsum Anwar
           </a>
         </p>
       </footer>
