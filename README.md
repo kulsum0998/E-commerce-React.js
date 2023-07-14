@@ -2,15 +2,15 @@
 
 <h2>About the project</h2>
 
-<p>This is a minimalist e-commerce website built with React and CSS. This
-website features a modern and intuitive design, with easy-to-use navigation and a
-simple shopping experience that puts the focus on the products.</p>
+<p>This minimalist e-commerce website is built with React and CSS. This
+website features a modern and intuitive design, easy-to-use navigation, and a
+simple shopping experience that focuses on the products.</p>
 
-👉 Live Demo: <a href='https://minimalist-e-commerce.vercel.app/'>Ecommerce Demo</a>
+👉 Live Demo: <a href='https://whimsical-concha-223dbc.netlify.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
-» Vanila CSS <br>
+» Vanilla CSS <br>
 » React JS
 
 <h2>Screenshots of the Project 📸</h2>
